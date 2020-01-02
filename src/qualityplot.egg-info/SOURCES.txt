@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/qualityPlot/__init__.py
+src/qualityPlot/basequalityplot.py
+src/qualityPlot/basequalityplotold.py
+src/qualityPlot/qualityplot.py
+src/qualityPlot/setup.py
+src/qualityPlot/sins.py
+src/qualityplot.egg-info/PKG-INFO
+src/qualityplot.egg-info/SOURCES.txt
+src/qualityplot.egg-info/dependency_links.txt
+src/qualityplot.egg-info/top_level.txt
